@@ -1,0 +1,2 @@
+rootProject.name='changeDataListView'
+include ':app'
